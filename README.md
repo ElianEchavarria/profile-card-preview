@@ -22,8 +22,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Links]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/profile-card-preview-7MSXOx4_1C))
-- Live Site URL: [Links]([https://your-live-site-url.com](https://elianechavarria.github.io/profile-card-preview/))
+- Solution URL: [Links](https://www.frontendmentor.io/solutions/profile-card-preview-7MSXOx4_1C)
+- Live Site URL: [Links](https://elianechavarria.github.io/profile-card-preview/)
 
 
 ### Built with
